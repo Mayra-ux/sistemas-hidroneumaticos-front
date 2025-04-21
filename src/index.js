@@ -5,6 +5,7 @@ import { AppRouter } from './router/AppRouter';
 
 
 import './styles.css'
+import 'antd/dist/reset.css'; // O 'antd/dist/antd.css' dependiendo de tu versión
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

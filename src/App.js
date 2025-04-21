@@ -1,4 +1,4 @@
-
+import 'antd/dist/reset.css'; // O 'antd/dist/antd.css' dependiendo de tu versión
 
 function App() {
   return (

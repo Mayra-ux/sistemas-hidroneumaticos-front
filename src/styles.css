@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.demo-logo-vertical {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* styles.css (o HomePage.module.css) */
+.logout-button:hover {
+  background-color: red !important;
+  color: white !important; /* Cambia el color del texto para mejor contraste */
+}
