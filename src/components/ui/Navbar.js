@@ -6,7 +6,7 @@ import {
   TeamOutlined,
 } from '@ant-design/icons';
 import { Layout, Menu } from 'antd';
-import logoImage from '../../assets/LOGO SHC.png'; 
+import logoImage from '../../assets/LOGO BLANCO.png'; 
 
 const { Sider } = Layout;
 
